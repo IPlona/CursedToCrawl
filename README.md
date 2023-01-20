@@ -6,7 +6,11 @@ Privacy Policy
 -------------------------------
 
 ### Information you provide by playing the game.
-The game uses Unity Ads, further reading on the privacy policy for Unity ads check their site https://unity.com/legal/privacy-policy.
+The game uses Unity Ads, further reading on the privacy policy for Unity ads check their site (you might want to google this on your own too):
+https://unity.com/legal/game-player-and-app-user-privacy-faq
+https://unity.com/legal/privacy-policy
+https://unity.com/legal/game-player-and-app-user-privacy-policy
+
 But the game does not collect any information outside what Unity collects by default.
 Notably, the standard Google Play analytics is not counted in this "information". 
 
