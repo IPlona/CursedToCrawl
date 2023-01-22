@@ -18,8 +18,7 @@ Notably, the standard Google Play analytics is not counted in this "information"
 Can't really use information if you don't gather any.
 
 ### Permissions
-The game should not need any additional permissions, outside possible Unity permissions. 
-If for some reason the game ask weird permission to external files or apps, deny them and delete the app. That shouldn't happen in any circumtances, something is wrong if it happens.
+When watching an ad, the game will ask Unity Ad spesific permission. Any data Unity gathers with this permission is never seen by the game or developers. 
 
 ### How serious we are with this
 Only slightly. Your personal data and information should always be secure and safe, it's important that companies/games/apps are straight forward and clear on how they want to use your information. We value the right to know and transparency. 
